@@ -107,7 +107,7 @@ $ npm run test:cov
 
 ## 📝 Licencia
 
-Este proyecto está bajo la licencia [MIT](https://github.com/nestjs/nest/blob/master/LICENSE).
+Este proyecto está bajo la licencia [MIT](./LICENSE).
 
 ---
 
